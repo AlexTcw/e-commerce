@@ -1,0 +1,35 @@
+
+#main-container{
+    background-color: none;
+}
+
+.card{    
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    color: #fff;
+    margin-top: 1%;
+    border: none;
+    background-color: #121513;
+    padding: 30px;    
+}
+
+.card p{
+    font-size: 2rem;
+}
+
+.staticImage{
+    width: 20rem;
+}
+
+.cart {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.icon{
+    padding: 10px;
+    font-size: 2rem;
+}

@@ -1,0 +1,29 @@
+.img-thumbnail{
+    border: none;
+    background: none;
+    width: 6rem;
+    padding: 10px;
+    margin-left: 1rem;
+}
+.cart {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.nav-sec{
+    margin-left: 20px;
+}
+
+.cart-itm{
+    margin-left: 3rem;
+}
+
+.nav-header{
+    display: flex;
+    justify-content: space-between;    
+}
+
+.nav-header .cart{
+    margin-right: 23%;
+}

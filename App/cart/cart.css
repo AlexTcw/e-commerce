@@ -1,0 +1,14 @@
+.card{    
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    color: #fff;
+    margin-top: 1%;
+    border: none;
+    background-color: #121513;
+    padding: 30px;    
+}
+
+#cargoContainer {
+    font-size: 30px;
+}
